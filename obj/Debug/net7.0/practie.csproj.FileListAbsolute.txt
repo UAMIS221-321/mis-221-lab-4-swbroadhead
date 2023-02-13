@@ -1,0 +1,15 @@
+C:\Users\SWB03\OneDrive - The University of Alabama\Spring 2023\MIS 221\221 Projects\practie\mis-221-lab-4-swbroadhead\bin\Debug\net7.0\practie.exe
+C:\Users\SWB03\OneDrive - The University of Alabama\Spring 2023\MIS 221\221 Projects\practie\mis-221-lab-4-swbroadhead\bin\Debug\net7.0\practie.deps.json
+C:\Users\SWB03\OneDrive - The University of Alabama\Spring 2023\MIS 221\221 Projects\practie\mis-221-lab-4-swbroadhead\bin\Debug\net7.0\practie.runtimeconfig.json
+C:\Users\SWB03\OneDrive - The University of Alabama\Spring 2023\MIS 221\221 Projects\practie\mis-221-lab-4-swbroadhead\bin\Debug\net7.0\practie.dll
+C:\Users\SWB03\OneDrive - The University of Alabama\Spring 2023\MIS 221\221 Projects\practie\mis-221-lab-4-swbroadhead\bin\Debug\net7.0\practie.pdb
+C:\Users\SWB03\OneDrive - The University of Alabama\Spring 2023\MIS 221\221 Projects\practie\mis-221-lab-4-swbroadhead\obj\Debug\net7.0\practie.csproj.AssemblyReference.cache
+C:\Users\SWB03\OneDrive - The University of Alabama\Spring 2023\MIS 221\221 Projects\practie\mis-221-lab-4-swbroadhead\obj\Debug\net7.0\practie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SWB03\OneDrive - The University of Alabama\Spring 2023\MIS 221\221 Projects\practie\mis-221-lab-4-swbroadhead\obj\Debug\net7.0\practie.AssemblyInfoInputs.cache
+C:\Users\SWB03\OneDrive - The University of Alabama\Spring 2023\MIS 221\221 Projects\practie\mis-221-lab-4-swbroadhead\obj\Debug\net7.0\practie.AssemblyInfo.cs
+C:\Users\SWB03\OneDrive - The University of Alabama\Spring 2023\MIS 221\221 Projects\practie\mis-221-lab-4-swbroadhead\obj\Debug\net7.0\practie.csproj.CoreCompileInputs.cache
+C:\Users\SWB03\OneDrive - The University of Alabama\Spring 2023\MIS 221\221 Projects\practie\mis-221-lab-4-swbroadhead\obj\Debug\net7.0\practie.dll
+C:\Users\SWB03\OneDrive - The University of Alabama\Spring 2023\MIS 221\221 Projects\practie\mis-221-lab-4-swbroadhead\obj\Debug\net7.0\refint\practie.dll
+C:\Users\SWB03\OneDrive - The University of Alabama\Spring 2023\MIS 221\221 Projects\practie\mis-221-lab-4-swbroadhead\obj\Debug\net7.0\practie.pdb
+C:\Users\SWB03\OneDrive - The University of Alabama\Spring 2023\MIS 221\221 Projects\practie\mis-221-lab-4-swbroadhead\obj\Debug\net7.0\practie.genruntimeconfig.cache
+C:\Users\SWB03\OneDrive - The University of Alabama\Spring 2023\MIS 221\221 Projects\practie\mis-221-lab-4-swbroadhead\obj\Debug\net7.0\ref\practie.dll
